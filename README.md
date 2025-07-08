@@ -90,8 +90,8 @@ Before running the analysis, ensure you have the following software installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YLdz-SM/Pasteurellaceae-Phylogenomic-Analysis.git
-   cd Pasteurellaceae-Phylogenomic-Analysis
+   gh repo clone YLdz-SM/Necropsobacter-rosorum-in-nutria-Myocastor-coypus-with-implications-for-wildlife-and-human-health
+   cd Necropsobacter-rosorum-in-nutria-Myocastor-coypus-with-implications-for-wildlife-and-human-health
    ```
 
 2. **Create and activate a conda environment:**
