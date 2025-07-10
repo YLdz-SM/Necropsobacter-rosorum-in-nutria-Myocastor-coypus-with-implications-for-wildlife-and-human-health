@@ -70,9 +70,11 @@ Pasteurellaceae-Phylogenomic-Analysis/
 │   └── Template_code_Data_Preprocessing.ipynb        # Data visualization and plotting template code
 │
 └── docs/                             # Additional documentation
-    ├── methodology.md                # Detailed methodology description
-    └── software_versions.md          # Software versions and dependencies
-
+│   ├── methodology.md                # Detailed methodology description
+│   └── software_versions.md          # Software versions and dependencies
+│
+└── Clock_Testing/                    # Code and results regarding the Clock Testing based on liklihood comparaison
+    
 
 ```
 
